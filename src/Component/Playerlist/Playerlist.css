@@ -1,0 +1,28 @@
+.image{
+    height: 180px;
+    width: 200px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.card-add-friend{
+    background-color: #F8F7F5;
+    border-radius: 5px;
+    margin: 10px;
+}
+.card-content{
+    padding: 7px;
+}
+.btn{
+    text-align: center;
+}
+.button-desgin{
+    width: 178px;
+    height: 35px;
+    background-color: #DBE7F2;
+    color: #1778E8;
+    border: none;
+    border-radius: 5px;
+}
+.icon{
+    margin-right: 8px;
+}
